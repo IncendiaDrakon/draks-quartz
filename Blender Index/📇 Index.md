@@ -1,5 +1,6 @@
-Obsidian property search example: ["characters":Iriali]
-
+---
+title: 📇 Index
+publish: true
 ---
 
 ```dataviewjs

@@ -13,6 +13,7 @@ tags:
 is_nsfw: false
 image: https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreibq64mpmtzxrpc6m2ly353h4glpajais7q2ogrph4s5bf6a4zg5tq
 slug: ffxiv-birthday-2024
+publish: true
 ---
 ---
 
