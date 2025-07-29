@@ -14,12 +14,6 @@ is_nsfw: false
 image: https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreibq64mpmtzxrpc6m2ly353h4glpajais7q2ogrph4s5bf6a4zg5tq
 slug: ffxiv-birthday-2024
 ---
-<<<<<<<< HEAD:Blender Index/Renders/2024-11-14 - Drakon's Birthday 2024.md
-========
-
-
-
->>>>>>>> a6c8eb01b929225e186d023d7eb97018e124a682:content/content/content/content/Final Fantasy XIV Renders/2024-11-14 - Drakon's Birthday 2024.md
 ---
 
 ![](https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreibq64mpmtzxrpc6m2ly353h4glpajais7q2ogrph4s5bf6a4zg5tq)
