@@ -89,6 +89,51 @@ https://fixupx.com/IncendiaDrakon/status/1895947802842431568
   </div>
 </div>
 ---
-
-
-<style>.auto-card-link-container{container-type:inline-size;position:relative;overflow:hidden;user-select:none;--auto-card-link-button-width:calc(var(--icon-size, 18px) + var(--size-2-3, 6px));--auto-card-link-indent-size:2.5em}&[data-auto-card-link-depth="1"]{margin-left:calc(var(--auto-card-link-indent-size) * 1)}&[data-auto-card-link-depth="2"]{margin-left:calc(var(--auto-card-link-indent-size) * 2)}&[data-auto-card-link-depth="3"]{margin-left:calc(var(--auto-card-link-indent-size) * 3)}&[data-auto-card-link-depth="4"]{margin-left:calc(var(--auto-card-link-indent-size) * 4)}&[data-auto-card-link-depth="5"]{margin-left:calc(var(--auto-card-link-indent-size) * 5)}&[data-auto-card-link-depth="6"]{margin-left:calc(var(--auto-card-link-indent-size) * 6)}&[data-auto-card-link-depth="7"]{margin-left:calc(var(--auto-card-link-indent-size) * 7)}.auto-card-link-title{white-space:normal!important;--lh:1.5em;line-height:var(--lh);height:calc(var(--lh) * 3);overflow:hidden;text-overflow:ellipsis}.auto-card-link-card{display:flex;flex-direction:row-reverse;height:8em;transition:20ms ease-in;cursor:pointer;text-decoration:none;color:var(--link-external-color,var(--highlight));background:var(--background-primary-alt,var(--darkgray));border:solid var(--border-width) var(--divider-color,var(--lightgray));border-radius:var(--radius-s,4px)}.auto-card-link-main{display:flex;flex-grow:1;flex-direction:column;justify-content:space-between;gap:.18em;padding:.5em .6em;overflow:hidden;text-align:left}.auto-card-link-description{overflow:hidden;--lh:1.4em;line-height:var(--lh);height:calc(var(--lh) * 3);color:var(--text-muted,var(--darkgray));font-size:var(--font-smallest, .9em)}.auto-card-link-host{font-size:var(--font-smallest, .9em);display:flex;flex-direction:row;align-items:center;text-overflow:ellipsis;white-space:nowrap}&:hover{color:var(--link-external-color-hover,var(--tertiary))}.auto-card-link-thumbnail{margin:0;width:unset!important;border-radius:var(--radius-s,4px) 0 0 var(--radius-s,4px)!important;height:100%;object-fit:cover;max-width:50%!important;pointer-events:none}.auto-card-link-container svg.external-icon{display: none}</style>
+<div class="el-pre"><div class="embed">
+  <div class="w _lc _sm _od _lh14 _ts">
+    <div class="embed-buttons">
+      <div class="refresh-button">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"></path>
+        </svg>
+      </div>
+      <div class="copy-button">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+          <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+        </svg>
+      </div>
+    </div>
+    <div class="wf">
+      <div class="wc _wi" style="width: 284px;">
+        <div class="e">
+          <div class="em">
+            <a href="https://bsky.app/profile/drakon.bsky.social/post/3ljdu35lr4s23" target="_blank" rel="noopener" data-do-not-bind-click="" class="c" style="
+                background-image: url('https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vigxa24owwfxyoe5nnweh7i4/bafkreigw5beby32q7ieinnskjwvyaulezt5smc63l5g4tji2uiky5l7aqi@jpeg');
+                background-size: contain;
+                background-position: center;
+              "></a>
+          </div>
+        </div>
+      </div>
+      <div class="wt">
+        <div class="t _f0 _ffsa _fsn _fwn">
+          <div class="th _f1p _fsn _fwb">
+            <a href="https://bsky.app/profile/drakon.bsky.social/post/3ljdu35lr4s23" target="_blank" rel="noopener" class="thl">
+              Drakon (@drakon.bsky.social)
+            </a>
+          </div>
+          <div class="td">Ok, just lean over- and... now kith!  Happy anniversary, @tigerbun.bsky.social! 💝  #FFXIV #B3D #OC #Vallia #Iriali</div>
+          <div class="tf _f1m">
+            <div class="tc">
+              <a href="https://bsky.app/profile/drakon.bsky.social/post/3ljdu35lr4s23" target="_blank" rel="noopener" class="tw _f1m">
+                
+                <span>https://bsky.app/profile/drakon.bsky.social/post/3ljdu35lr4s23</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div>
