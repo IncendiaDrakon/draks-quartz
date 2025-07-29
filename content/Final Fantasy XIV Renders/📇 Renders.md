@@ -1,6 +1,18 @@
 ---
 title: Renders
 ---
-| Preview                                                                                                                                                                                | Title                                         | Date           | Universe          | Characters     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | -------------- | ----------------- | -------------- |
-| ![](https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreidyxzlortntwyeawnu6qmmxssv3h2bw7lgybrff6mzvrjhte5m22e) | [[2025-03-01 FFXIV 2025 Wedding Anniversary]] | March 01, 2025 | Final Fantasy XIV | Vallia, Iriali |
+```dataviewjs
+dv.table(
+  ["Preview", "Title", "Date", "Universe", "Characters"],
+  dv.pages('#render')
+    .filter(p => p.image && p.title && p.date && p.universe && p.characters)
+    .sort(p => p.date, "desc")
+    .map(p => [
+      `![|100](${p.image})`, // Thumbnail preview (100px wide)
+      p.file.link,
+      p.date,
+      p.universe,
+      Array.isArray(p.characters) ? p.characters.join(", ") : p.characters
+    ])
+);
+```
