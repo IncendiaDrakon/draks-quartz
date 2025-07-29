@@ -9,8 +9,8 @@
     <title>📇 Index</title>
     <link>https://quartz.jzhao.xyz/Blender-Archive/%F0%9F%93%87-Index</link>
     <guid>https://quartz.jzhao.xyz/Blender-Archive/%F0%9F%93%87-Index</guid>
-    <description><![CDATA[ Obsidian property search example: [“characters”:Iriali] dv.table( [&quot;Preview&quot;, &quot;Title&quot;, &quot;Date&quot;, &quot;Universe&quot;, &quot;Characters&quot;], dv.pages(&#039;#render&#039;) .filter(p =&gt; p.image &amp;&amp; p.title &amp;&amp; p.date &amp;&amp; p.universe &amp;&amp; p.ch... ]]></description>
-    <pubDate>Tue, 29 Jul 2025 02:32:03 GMT</pubDate>
+    <description><![CDATA[ &lt;% tp.file.include(“render-table.tpl.md”) %&gt;. ]]></description>
+    <pubDate>Tue, 29 Jul 2025 05:39:29 GMT</pubDate>
   </item><item>
     <title>Welcome to Quartz</title>
     <link>https://quartz.jzhao.xyz/</link>
