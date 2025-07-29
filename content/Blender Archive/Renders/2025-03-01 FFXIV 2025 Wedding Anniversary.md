@@ -1,5 +1,6 @@
 ---
 title: Ceremony of Eternal Bonding VI
+slug: ffxiv-anniversary-2025
 date: 2025-03-01
 project: 2025 FFXIV Wedding Anniversary
 universe: Final Fantasy XIV
