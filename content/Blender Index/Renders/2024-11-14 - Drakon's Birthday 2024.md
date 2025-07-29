@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Birthday 2024","created":"2024-11-16","modified":"2025-07-29T18:09:23.726-04:00","published":"2024-11-16","tags":["blender","render"],"cssclasses":"","socialImage":"https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreibq64mpmtzxrpc6m2ly353h4glpajais7q2ogrph4s5bf6a4zg5tq"}
+{"publish":true,"title":"Birthday 2024","created":"2024-11-16","modified":"2025-07-29T18:24:15.261-04:00","published":"2024-11-16","tags":["blender","render"],"cssclasses":"","socialImage":"https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreibq64mpmtzxrpc6m2ly353h4glpajais7q2ogrph4s5bf6a4zg5tq","date":"2024-11-16","project":"2024 FFXIV Drakon's Birthday","universe":"Final Fantasy XIV","characters":["Vallia","Iriali","Marina"],"is_nsfw":false,"image":"https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreibq64mpmtzxrpc6m2ly353h4glpajais7q2ogrph4s5bf6a4zg5tq","slug":"ffxiv-birthday-2024"}
 ---
 
 ---
@@ -49,9 +49,7 @@ url: "https://bsky.app/profile/drakon.bsky.social/post/3lb37hq345e2d"
 favicon: ""
 ```
 
-
 ---
-
 
 ## Twitter
 

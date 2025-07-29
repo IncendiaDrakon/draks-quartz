@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Ceremony of Eternal Bonding VI","created":"2025-03-01","modified":"2025-07-29T18:09:10.200-04:00","published":"2025-03-01","tags":["blender","render"],"cssclasses":"","socialImage":"https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreidyxzlortntwyeawnu6qmmxssv3h2bw7lgybrff6mzvrjhte5m22e"}
+{"publish":true,"title":"Ceremony of Eternal Bonding VI","created":"2025-03-01","modified":"2025-07-29T18:24:48.565-04:00","published":"2025-03-01","tags":["blender","render"],"cssclasses":"","socialImage":"https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreidyxzlortntwyeawnu6qmmxssv3h2bw7lgybrff6mzvrjhte5m22e","date":"2025-03-01","project":"2025 FFXIV Wedding Anniversary","universe":"Final Fantasy XIV","characters":["Vallia","Iriali"],"is_nsfw":false,"image":"https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreidyxzlortntwyeawnu6qmmxssv3h2bw7lgybrff6mzvrjhte5m22e","slug":"ffxiv-anniversary-2025"}
 ---
 
 ---
@@ -70,11 +70,11 @@ aspectRatio: "130.57671381936888"
 
 https://fixupx.com/IncendiaDrakon/status/1895947802842431568
 
-
+---
 <div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://bsky.app/profile/drakon.bsky.social/post/3ljdu35lr4s23" class="auto-card-link-card" target="_blank" rel="noopener nofollow"><div class="auto-card-link-main"><div class="auto-card-link-title">Drakon (@drakon.bsky.social)</div><div class="auto-card-link-description">Ok, just lean over- and... now kith!Happy anniversary, @tigerbun.bsky.social! 💝#FFXIV #B3D #OC #Vallia #Iriali</div><div class="auto-card-link-host"><span>bsky.app</span></div></div><img draggable="false" src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vigxa24owwfxyoe5nnweh7i4/bafkreigw5beby32q7ieinnskjwvyaulezt5smc63l5g4tji2uiky5l7aqi@jpeg" class="auto-card-link-thumbnail" /></a></div>
-
+---
 <div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://fixupx.com/IncendiaDrakon/status/1914662789471232467" class="auto-card-link-card" target="_blank" rel="noopener nofollow"><div class="auto-card-link-main"><div class="auto-card-link-title">Drakon (@IncendiaDrakon)</div><div class="auto-card-link-description">💕</div><div class="auto-card-link-host"></div></div><img draggable="false" src="https://pbs.twimg.com/media/GpI_qRtXwAA8ext.jpg" class="auto-card-link-thumbnail" /></a></div>
-
+---
 <div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://fixupx.com/IncendiaDrakon/status/1914662789471232467" class="auto-card-link-card" target="_blank" rel="noopener nofollow"><div class="auto-card-link-main"><div class="auto-card-link-title">Drakon (@IncendiaDrakon)</div><div class="auto-card-link-description">💕</div><div class="auto-card-link-host"><span>x.com</span></div></div><img draggable="false" src="https://pbs.twimg.com/media/GpI_qRtXwAA8ext.jpg" class="auto-card-link-thumbnail" /></a></div>
 
 
