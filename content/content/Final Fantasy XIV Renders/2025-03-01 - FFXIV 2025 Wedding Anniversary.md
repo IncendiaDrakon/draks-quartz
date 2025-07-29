@@ -1,18 +1,7 @@
 ---
-title: Ceremony of Eternal Bonding VI
-date: 2025-03-01
-project: 2025 FFXIV Wedding Anniversary
-universe: Final Fantasy XIV
-characters:
-  - Vallia
-  - Iriali
-tags:
-  - blender
-  - render
-is_nsfw: false
-image: https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreidyxzlortntwyeawnu6qmmxssv3h2bw7lgybrff6mzvrjhte5m22e
-slug: ffxiv-anniversary-2025
+{"publish":true,"title":"Ceremony of Eternal Bonding VI","created":"2025-03-01","modified":"2025-07-29T16:27:53.438-04:00","tags":["blender","render"],"cssclasses":"","socialImage":"https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreidyxzlortntwyeawnu6qmmxssv3h2bw7lgybrff6mzvrjhte5m22e"}
 ---
+
 ---
 ![](https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreidyxzlortntwyeawnu6qmmxssv3h2bw7lgybrff6mzvrjhte5m22e)
 
