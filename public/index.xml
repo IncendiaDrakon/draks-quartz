@@ -6,53 +6,17 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>[object Object]</title>
-    <link>https://quartz.jzhao.xyz/Blender-Archive/Meta-Drafts/render.md-template</link>
-    <guid>https://quartz.jzhao.xyz/Blender-Archive/Meta-Drafts/render.md-template</guid>
-    <description><![CDATA[  Download high-res local render Telegram Links Render post Blend post Direct .blend download Social Embeds Bluesky: Twitter: Notes {{personal_blurb}}. ]]></description>
-    <pubDate>Tue, 29 Jul 2025 01:39:42 GMT</pubDate>
-  </item><item>
-    <title>[object Object]</title>
-    <link>https://quartz.jzhao.xyz/Blender-Archive/Meta-Drafts/render.md-template-v2</link>
-    <guid>https://quartz.jzhao.xyz/Blender-Archive/Meta-Drafts/render.md-template-v2</guid>
-    <description><![CDATA[  Notes {{blurb about ritual/process/render intent}} Telegram {{list of archive links}} Posts {{social embeds}}. ]]></description>
-    <pubDate>Tue, 29 Jul 2025 01:39:42 GMT</pubDate>
-  </item><item>
-    <title>📇 Index</title>
-    <link>https://quartz.jzhao.xyz/Blender-Archive/%F0%9F%93%87-Index</link>
-    <guid>https://quartz.jzhao.xyz/Blender-Archive/%F0%9F%93%87-Index</guid>
-    <description><![CDATA[ Obsidian property search example: [“characters”:Iriali] dv.table( [&quot;Preview&quot;, &quot;Title&quot;, &quot;Date&quot;, &quot;Universe&quot;, &quot;Characters&quot;], dv.pages(&#039;#render&#039;) .filter(p =&gt; p.image &amp;&amp; p.title &amp;&amp; p.date &amp;&amp; p.universe &amp;&amp; p.ch... ]]></description>
-    <pubDate>Mon, 28 Jul 2025 16:16:43 GMT</pubDate>
-  </item><item>
-    <title>ChatGPT Insight</title>
-    <link>https://quartz.jzhao.xyz/Blender-Archive/Meta-Drafts/ChatGPT-Insight</link>
-    <guid>https://quartz.jzhao.xyz/Blender-Archive/Meta-Drafts/ChatGPT-Insight</guid>
-    <description><![CDATA[ chatgpt.com/c/68879631-a370-8003-8d85-cb49d542f025 microsoft copilot came up with the idea of making render.md files in obsidian to catalogue all my 3d renders their raw output dumps, .blend files, and associated ideas and assets are all stored on Telegram the general idea is “render.md” exists loca... ]]></description>
-    <pubDate>Mon, 28 Jul 2025 16:04:09 GMT</pubDate>
-  </item><item>
-    <title>📜 Notes</title>
-    <link>https://quartz.jzhao.xyz/Blender-Archive/%F0%9F%93%9C-Notes</link>
-    <guid>https://quartz.jzhao.xyz/Blender-Archive/%F0%9F%93%9C-Notes</guid>
-    <description><![CDATA[ Not a formal “Readme”, mostly just a dump of ideas and stuff regarding this Obsidian catalogue for renders/etc. ]]></description>
-    <pubDate>Mon, 28 Jul 2025 15:55:20 GMT</pubDate>
-  </item><item>
-    <title>Style Guide</title>
-    <link>https://quartz.jzhao.xyz/Blender-Archive/Meta-Drafts/Style-Guide</link>
-    <guid>https://quartz.jzhao.xyz/Blender-Archive/Meta-Drafts/Style-Guide</guid>
-    <description><![CDATA[ Vault Style Guide A living document for maintaining consistent, query-friendly metadata and folder structure across your markdown vault. 1. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 15:28:09 GMT</pubDate>
+    <title>Welcome to Quartz</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
+    <pubDate>Tue, 29 Jul 2025 01:46:52 GMT</pubDate>
   </item><item>
     <title>Ceremony of Eternal Bonding VI</title>
     <link>https://quartz.jzhao.xyz/Blender-Archive/Renders/2025-03-01-FFXIV-2025-Wedding-Anniversary</link>
     <guid>https://quartz.jzhao.xyz/Blender-Archive/Renders/2025-03-01-FFXIV-2025-Wedding-Anniversary</guid>
     <description><![CDATA[  Notes Sixth annual wedding anniversary render featuring Iriali and Vallia. ]]></description>
     <pubDate>Sat, 01 Mar 2025 05:00:00 GMT</pubDate>
-  </item><item>
-    <title>Welcome to Quartz</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
-    <pubDate>Wed, 23 Aug 2023 19:09:04 GMT</pubDate>
   </item>
     </channel>
   </rss>
