@@ -32,7 +32,7 @@ Drakon's Blender Dump (.blend Archive)
 
 ```embed
 title: "Drakon (@drakon.bsky.social)"
-image: "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vigxa24owwfxyoe5nnweh7i4/bafkreigw5beby32q7ieinnskjwvyaulezt5smc63l5g4tji2uiky5l7aqi@jpeg"
+image: ""
 description: "Ok, just lean over- and... now kith!  Happy anniversary, @tigerbun.bsky.social! 💝  #FFXIV #B3D #OC #Vallia #Iriali"
 url: "https://bsky.app/profile/drakon.bsky.social/post/3ljdu35lr4s23"
 favicon: ""
