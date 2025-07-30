@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Ceremony of Eternal Bonding VI","created":"2025-03-01","modified":"2025-07-29T19:02:37.596-04:00","published":"2025-03-01","tags":["blender","render"],"cssclasses":"","socialImage":"https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreidyxzlortntwyeawnu6qmmxssv3h2bw7lgybrff6mzvrjhte5m22e","date":"2025-03-01","project":"2025 FFXIV Wedding Anniversary","universe":"Final Fantasy XIV","characters":["Vallia","Iriali"],"is_nsfw":false,"image":"https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreidyxzlortntwyeawnu6qmmxssv3h2bw7lgybrff6mzvrjhte5m22e","slug":"ffxiv-anniversary-2025"}
+{"publish":true,"title":"Ceremony of Eternal Bonding VI","created":"2025-03-01","modified":"2025-07-29T19:57:42.960-04:00","published":"2025-03-01","tags":["blender","render"],"cssclasses":"","socialImage":"https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreidyxzlortntwyeawnu6qmmxssv3h2bw7lgybrff6mzvrjhte5m22e","date":"2025-03-01","project":"2025 FFXIV Wedding Anniversary","universe":"Final Fantasy XIV","characters":["Vallia","Iriali"],"is_nsfw":false,"image":"https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreidyxzlortntwyeawnu6qmmxssv3h2bw7lgybrff6mzvrjhte5m22e","slug":"ffxiv-anniversary-2025"}
 ---
 
 ---
@@ -67,6 +67,7 @@ aspectRatio: "130.57671381936888"
 ```
 
 ---
+<<<<<<< HEAD
 
 https://fixupx.com/IncendiaDrakon/status/1895947802842431568
 
@@ -137,3 +138,5 @@ https://fixupx.com/IncendiaDrakon/status/1895947802842431568
     </div>
   </div>
 </div></div>
+=======
+>>>>>>> ba84cd97926273c12bdcda4891e3a7242f0071b4
