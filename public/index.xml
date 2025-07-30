@@ -6,6 +6,12 @@
       <description>Last 10 notes on Drak&#039;s Stuff</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Welcome to Drak&#039;s Stuff!</title>
+    <link>https://quartz.jzhao.xyz/Quartz-Index</link>
+    <guid>https://quartz.jzhao.xyz/Quartz-Index</guid>
+    <description><![CDATA[ Work in progress! I’ll put stuff here. Eventually. ™. ]]></description>
+    <pubDate>Wed, 30 Jul 2025 01:10:16 GMT</pubDate>
+  </item><item>
     <title>Birthday 2024</title>
     <link>https://quartz.jzhao.xyz/Blender-Index/Renders/2024-11-14---Drakon's-Birthday-2024</link>
     <guid>https://quartz.jzhao.xyz/Blender-Index/Renders/2024-11-14---Drakon's-Birthday-2024</guid>
@@ -23,12 +29,6 @@
     <guid>https://quartz.jzhao.xyz/Blender-Index/%F0%9F%93%87-Index</guid>
     <description><![CDATA[  Preview - 2TitleDateUniverseCharacters2025-03-01 - FFXIV 2025 Wedding AnniversaryMarch 01, 2025Final Fantasy XIVVallia, Iriali2024-11-14 - Drakon’s Birthday 2024November 16, 2024Final Fantasy XIVVallia, Iriali, Marina. ]]></description>
     <pubDate>Wed, 30 Jul 2025 00:03:19 GMT</pubDate>
-  </item><item>
-    <title>Welcome to Quartz</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ Work in progress!. ]]></description>
-    <pubDate>Tue, 29 Jul 2025 22:19:23 GMT</pubDate>
   </item>
     </channel>
   </rss>
