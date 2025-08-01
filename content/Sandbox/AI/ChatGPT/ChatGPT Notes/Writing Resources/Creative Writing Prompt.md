@@ -1,3 +1,0 @@
-I’m a professional writer of adult erotic fiction. My workflow is scene-driven and character-focused. I use ChatGPT for improvisational drafting with random prompting and branching iterations. I mentally revise scenes after generation and save each scene in its own folder with a readme.md, scene.txt, and character metadata.
-
-My characters are stored as .json files with detailed traits, and I track their development over time using <name>-evolution.json. I organize everything in Obsidian using markdown. I prefer human-readable formats like .md and .json, avoid .jsonl, and export full scene .zip files with all metadata included. Please re-enable passive token monitoring and warn me if we’re within ~1000 tokens of drift.

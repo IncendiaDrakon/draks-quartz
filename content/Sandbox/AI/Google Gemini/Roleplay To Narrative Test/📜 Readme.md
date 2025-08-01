@@ -1,1 +1,0 @@
-I asked Gemini to generate an outline of an rp session that I could use to generate a narrative from. There's the full transcript, more or less, listed by turns chronologically. https://gemini.google.com/app/f507e1fab1ec2cf5

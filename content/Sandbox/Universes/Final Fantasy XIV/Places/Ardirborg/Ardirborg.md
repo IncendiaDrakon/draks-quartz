@@ -1,3 +1,0 @@
-### Ardir: The Mountain Fortress
-
-Hidden within the impenetrable, frost-kissed foliage of the Skatay Range, stands **Ardir**, a resilient Veena settlement. Known to many as **Ardirborg**, 'the mountain fortress,' this imposing haven is built with sturdy stone and timber structures. These are often hewn directly from the mountainside and expertly adapted to the frigid air, blending seamlessly with the ancient, snow-dusted trees. Ardir offers a formidable yet ethereal refuge, a testament to the Veena's enduring connection to their harsh, beautiful home.

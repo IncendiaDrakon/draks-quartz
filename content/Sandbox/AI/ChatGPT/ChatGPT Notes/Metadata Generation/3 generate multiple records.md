@@ -1,1 +1,0 @@
-Generate 3 JSON records that conform to the same schema. Use different UUIDs and timestamps but keep other values identical to the previous example.

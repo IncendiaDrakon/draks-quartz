@@ -1,1 +1,0 @@
-Write a 500-word scene in my fantasy world Eldoria where Aranis discovers her moonweaving power.

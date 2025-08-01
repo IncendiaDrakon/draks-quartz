@@ -1,1 +1,0 @@
-My latest attempt at getting better roleplay/narrative from Gemini. Had ChatGPT help me (lol) so who knows how this'll work out. Ultimately I think I'm gonna try starting over from scratch. It sorta feels like the AI just becomes my yes man and hallucinates whatever it thinks will please me. https://chatgpt.com/c/6881dde9-ba0c-8003-81c4-7e6ee27e1e15
