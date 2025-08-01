@@ -1,30 +1,5 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import { FileNode } from "./quartz/components/Explorer" // Import the FileNode type
-
-// Custom sorting function
-const sortByModified: (a: FileNode, b: FileNode) => number = (a, b) => {
-  // Sort folders first
-  if (a.isFolder && !b.isFolder) return -1
-  if (!a.isFolder && b.isFolder) return 1
-
-  // If both are files, sort by modified date (newest on top)
-  if (!a.isFolder && !b.isFolder) {
-    // Access the modified date. The '?? 0' handles cases where a date might be missing.
-    const aDate = a.fileData?.dates?.modified ?? 0
-    const bDate = b.fileData?.dates?.modified ?? 0
-
-    // Compare the dates in descending order.
-    // The `.getTime()` is used to get a number representation of the date for easy subtraction.
-    const aTime = aDate instanceof Date ? aDate.getTime() : aDate
-    const bTime = bDate instanceof Date ? bDate.getTime() : bDate
-
-    return bTime - aTime
-  }
-
-  // If both are folders, use the default alphabetical sort
-  return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
-}
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -63,10 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    // Apply the custom sortFn here
-    Component.Explorer({
-      sortFn: sortByModified,
-    }),
+    Component.Explorer(),
   ],
   right: [
     Component.Graph(),
@@ -90,10 +62,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    // Apply the custom sortFn here as well
-    Component.Explorer({
-      sortFn: sortByModified,
-    }),
+    Component.Explorer(),
   ],
   right: [],
 }
