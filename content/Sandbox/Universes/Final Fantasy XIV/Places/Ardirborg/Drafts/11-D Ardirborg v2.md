@@ -1,0 +1,7 @@
+Ardirborg is a Veena settlement nestled along a granite ridge deep in the Skatay Range. Its name, literally “Mountain Fortress”, was hard-earned: a place where weathered stone meets the sculpted elegance of forest craftsmanship. Though absent from maps, its timber terraces and winding rootways have endured for generations as a quiet watchpoint overlooking the mountain pass.
+
+The village’s structures rise seamlessly from rock and pine forest. Its layout clings to the spur’s contours: elevated platforms stretch from ancient trunks, while spiral ramps carve gentle arcs around exposed roots. Rounded dwellings sit beneath interwoven canopies, each built from curved beams etched with precise leafwork and flowing knot patterns. Walls of layered plankwork are sealed with resin, their surfaces stained in muted tones and accentuated by ornate motifs.
+
+At the center stands a domed lodge, its carved doorframe studded with mineral inlays and its stone lintel shaped to mirror the horizon. Along the outer trail, sculptures and bas-reliefs emerge from scattered rocks, their intricate spirals and elemental glyphs whispering of older, hidden meanings.
+
+The Veena of Ardirborg are known beyond its borders, though few admit to knowing its secret paths. Those who pass through recall the settlement not by name, but for the carved silence that surrounds it. Unmarked on charts, Ardirborg endures in local lore as “the living fortress,” where woodcraft, stonework, and subtle aether converge beneath Skatay’s silent peaks.

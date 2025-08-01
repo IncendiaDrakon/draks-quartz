@@ -1,0 +1,78 @@
+{
+  "id": "vallia_ah",
+  "note": "Aether High AU",
+  "name": {
+    "first": "Vallia",
+    "last": "Dreki",
+    "nickname": "Val",
+    "prohibit_full_name_reference": true
+  },
+  "age": 16,
+  "gender": "female",
+  "pronounds": "she/her",
+  "race": {
+    "Viera": {
+      "clan": "Veena"
+    }
+  },
+  "relationship": "Iriali's girlfriend",
+  "disposition": {
+    "libido": "very high",
+    "sensuality": "intense"
+  },
+  "anatomy": {
+    "sexual_anatomy": {
+      "vulva": {
+        "vagina": true,
+        "clitoris": true,
+        "labia": true
+      },
+      "breasts": {
+        "size": "large",
+        "lactation": {
+          "fullness": "often full requiring relief",
+          "arousal": "leaks from arousal and climax"
+        },
+        "nipples": {
+          "piercings": {
+            "color": "black",
+            "type": "barbell"
+          }
+        }
+      },
+      "anus": true,
+      "sheath": {
+        "testicles": false,
+        "scrotum": false,
+        "penis": {
+          "retracts": true,
+          "knot": true,
+          "piercings": {
+            "frenum_ladder": {
+              "type": "barbell",
+              "count": 8,
+              "color": "black"
+            }
+          },
+          "orgasm": {
+            "erection": "remains erect after climax",
+            "ejaculation": "squirts from additional stimulation"
+          },
+          "location": "above_vulva",
+          "size": "large",
+          "retracted_appearance": "soft_round_mound"
+        }
+      }
+    }
+  },
+  "ears": [
+    "rabbit",
+    "fluffy",
+    "long"
+  ],
+  "tail": [
+    "rabbit",
+    "fluffy",
+    "short"
+  ]
+}

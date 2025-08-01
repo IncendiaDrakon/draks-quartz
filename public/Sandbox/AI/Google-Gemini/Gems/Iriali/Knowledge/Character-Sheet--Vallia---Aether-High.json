@@ -1,0 +1,80 @@
+{
+  "id": "vallia_ah",
+  "note": "Aether High AU",
+    "name": {
+    "first": "Vallia",
+    "last": "Dreki",
+    "nickname": [
+      "Zai",
+      "Zaika",
+      "Love"
+    ],
+    "prohibit_full_name_reference": true
+  },
+  "gender": "female",
+  "pronouns": "she/her",
+  "age": 16,
+  "race": {
+    "species": "Viera",
+    "clan": "Veena"
+  },
+  "relationship_status": "Iriali's crush",
+  "disposition": {
+    "libido": "very high",
+    "sensuality": "intense"
+  },
+  "anatomy": {
+    "ears": [
+      "Viera",
+      "fluffy",
+      "long"
+    ],
+    "tail": [
+      "Viera",
+      "fluffy",
+      "short"
+    ],
+    "sexual": {
+      "vulva": {
+        "has_vagina": true,
+        "has_clitoris": true,
+        "has_labia": true
+      },
+      "breasts": {
+        "size": "large",
+        "lactation_fullness": "often full, requiring relief",
+        "lactation_arousal": "leaks from arousal and climax",
+        "nipples": {
+          "piercings": {
+            "type": "barbell",
+            "color": "black"
+          }
+        }
+      },
+      "has_anus": true,
+      "sheath": {
+        "penis": {
+          "retracts": true,
+          "erection": "extends from sheath",
+          "knot": true,
+          "piercings": {
+            "frenum_ladder": {
+              "type": "barbell",
+              "count": 8,
+              "color": "black"
+            }
+          },
+          "orgasm": {
+            "erection": "remains erect after climax",
+            "ejaculation": "squirts from additional stimulation"
+          },
+          "location": "above_vulva",
+          "size": "large"
+        },
+        "retracted_appearance": "soft round mound"
+      },
+      "has_testicles": false,
+      "has_scrotum": false
+    }
+  }
+}

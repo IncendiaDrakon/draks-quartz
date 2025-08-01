@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"fd0b26f92dc71493","x":-400,"y":-160,"width":560,"height":640,"color":"4","type":"group","label":"🌿 Exterior Garden"},
+		{"id":"common","type":"text","text":"🪑 Common Room","background":"canvas","created":"2025-07-07T01:03:50.682974Z","x":0,"y":0,"width":260,"height":380,"color":"text"},
+		{"id":"bath","type":"text","text":"🚿 Bathing & Restrooms","background":"canvas","created":"2025-07-07T01:03:50.682982Z","x":660,"y":0,"width":240,"height":120,"color":"text"},
+		{"id":"dorms","type":"text","text":"🛏️ Dormitories","background":"canvas","created":"2025-07-07T01:03:50.682978Z","x":660,"y":240,"width":240,"height":140,"color":"text"},
+		{"id":"kitchen","type":"text","text":"🍲 Kitchen & Dining","background":"canvas","created":"2025-07-07T01:03:50.682986Z","x":360,"y":110,"width":240,"height":160,"color":"text"}
+	],
+	"edges":[],
+	"version":1,
+	"canvas":{"centerX":0,"centerY":0,"zoom":1}
+}

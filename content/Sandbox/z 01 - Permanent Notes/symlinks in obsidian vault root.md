@@ -1,0 +1,3 @@
+I want to natively link/embed files in Obsidian notes without having the files live in my vault folder. The solution is to create a symlink for desired folders in the vault folder. This helps keep files where I want them while being able to reference or catalogue them via Obsidian. Additionally, it's git sync friendly. I won't have tons of files bloating my github repos and all my vault files can be backed up without worry.
+
+[[Obsidian Tips and Tricks]]

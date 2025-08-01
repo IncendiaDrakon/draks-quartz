@@ -1,0 +1,16 @@
+Generate one JSON record where:
+- projectId = "550e8400-e29b-41d4-a716-446655440000"
+- title = "Beneath the Moonlit Canopy"
+- author = "Your Name"
+- createdAt = "2025-07-06T20:00:00Z"
+- updatedAt = "2025-07-06T20:00:00Z"
+- status = "planning"
+- genre = "fantasy"
+- tags = ["elves","mystery"]
+- setting.worldName = "Eldoria"
+- setting.description = "An ancient forest realm filled with whispering willows."
+- world.magicSystems = [{ "name": "Lunar Weaving", "description": "Manipulate moonlight into threads of power.", "rules": "Must be performed under a full moon." }]
+- world.races = [{ "name": "Sylvan Elves", "traits": ["long-lived","keen senses"], "culture": "Forest guardians with intricate clan hierarchies." }]
+- characters = [{ "id": "660e8400-e29b-41d4-a716-446655440001", "name": "Aranis", "role": "protagonist", "race": "Sylvan Elves", "profession": "moonweaver", "traits": ["curious","headstrong"], "arc": "Learns humility through loss." }]
+- chapters = [{ "chapterNumber": 1, "title": "Awakening", "summary": "Aranis discovers her latent power.", "wordCount": 750 }]
+- notes = "First draft of metadata record."

@@ -1,0 +1,14 @@
+{
+  "scenes": [
+    {
+      "id": "scene-001",
+      "title": "Introduction",
+      "status": "draft"
+    },
+    {
+      "id": "scene-002",
+      "title": "Knotting in the Candlelight",
+      "status": "planned"
+    }
+  ]
+}
