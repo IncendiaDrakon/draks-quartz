@@ -15,18 +15,16 @@ image: https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?
 publish: true
 index: "[[2025-03-01 - FFXIV 2025 Wedding Anniversary - Index]]"
 ---
-Ok, just lean over- and... now kith!
-
-Happy anniversary, Tiggs! 💝
+💕
 
 ---
 
-![](https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreidyxzlortntwyeawnu6qmmxssv3h2bw7lgybrff6mzvrjhte5m22e)
+![](https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreie7qczmkkcu3tegwj6nqllfe6wngcowo3ekf27bluy2llz4rzizx4)
 
 ---
 
 > [!info] High-Quality Versions
-> See [[2025-03-01 - FFXIV 2025 Wedding Anniversary - Lossless|Lossless]] for higher quality.
+> See [[2025-03-01-1 - FFXIV 2025 Wedding Anniversary - Lossless|Lossless]] for higher quality.
 
 
 ## Links
