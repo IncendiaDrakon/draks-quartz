@@ -1,23 +1,7 @@
 ---
-title: Drakon's Birthday 2024
-date: 2024-11-16
-project: 2024 FFXIV Drakon's Birthday
-universe: Aetherbound
-characters:
-  - Vallia
-  - Iriali
-  - Marina
-tags:
-  - FFXIV/Blender/Render
-  - FFXIV/Vallia
-  - FFXIV/Iriali
-  - FFXIV/Marina
-  - FFXIV
-is_nsfw: false
-image: https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreibq64mpmtzxrpc6m2ly353h4glpajais7q2ogrph4s5bf6a4zg5tq
-publish: true
-index: "[[2024-11-14 - Drakon's Birthday 2024 - Index]]"
+{"publish":true,"title":"Drakon's Birthday 2024","created":"2024-11-16","tags":["FFXIV/Blender/Render","FFXIV/Vallia","FFXIV/Iriali","FFXIV/Marina","FFXIV"],"cssclasses":"","socialImage":"https://shiitake.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Avigxa24owwfxyoe5nnweh7i4&cid=bafkreibq64mpmtzxrpc6m2ly353h4glpajais7q2ogrph4s5bf6a4zg5tq"}
 ---
+
 Today is my birthday. 🥳🎂
 
 Time to unleash the wholesome family render filled with memes-
@@ -37,12 +21,12 @@ Time to unleash the wholesome family render filled with memes-
 ---
 
 > [!info] High-Quality Versions
-> See [[2024-11-14 - Drakon's Birthday 2024 - Lossless|Lossless]] for higher quality.
+> See [[Blender/2024-11-14 - Drakon's Birthday 2024 - Lossless\|Lossless]] for higher quality.
 
 
 ## Links
-* [[Aetherbound - Renders|Aetherbound]]
-* [[Renders - Vallia - Aetherbound|Vallia]]
-* [[Aetherbound - Iriali - Renders|Iriali]]
-* [[Aetherbound - Marina - Renders|Marina]]
-* [[Blender - Renders|Blender Renders]]
+* [[Final Fantasy XIV/Aetherbound - Renders\|Aetherbound]]
+* [[Final Fantasy XIV/Renders - Vallia - Aetherbound\|Vallia]]
+* [[Final Fantasy XIV/Aetherbound - Iriali - Renders\|Iriali]]
+* [[Final Fantasy XIV/Aetherbound - Marina - Renders\|Marina]]
+* [[Blender/Blender - Renders\|Blender Renders]]
