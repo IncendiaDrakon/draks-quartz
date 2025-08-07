@@ -17,6 +17,9 @@ A collection of creative ways to use leftover tortilla chip crumbs. Click throug
 - [[Meatball or Meatloaf Filler]]
 - [[Chili Base Layer]]
 - [[Casserole Topping]]
+- [[Tortilla Chip Quiche Crust]]
+- [[Crumb-Crusted Elote Bake]]
+- [[Falafel Remix]]
 
 ## 🧀 Snack & Appetizer Hacks
 - [[Nacho Dust Popcorn]]
@@ -24,13 +27,21 @@ A collection of creative ways to use leftover tortilla chip crumbs. Click throug
 - [[Queso Dip Thickener]]
 - [[Cheese Log Crust]]
 - [[Taco Pizza Crust]]
+- [[Trail Mix Crunch]]
+- [[Chip Butter Spread]]
+- [[Crumb-Coated Quesadillas]]
 
 ## 🍳 Breakfast Twists
 - [[Egg Scramble Crunch]]
 - [[Breakfast Burrito Filler]]
 - [[Mexican Migas Substitute]]
+- [[Huevos Chip-ercheros]]
+- [[Savory Pancake Topping]]
 
 ## 🥗 Unexpected Ideas
 - [[Mexican Pesto]]
 - [[Savory Crumble Topping]]
 - [[Chip-Crusted Avocado Fries]]
+- [[Mexican Chocolate Bark]]
+- [[Spicy Chip Brittle]]
+- [[Ice Cream Crunch Topping]]
