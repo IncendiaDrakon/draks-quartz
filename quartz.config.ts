@@ -79,9 +79,12 @@ const config: QuartzConfig = {
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
 Plugin.FolderPage({
-  sortFn: (a, b) => b.relativePath.localeCompare(a.relativePath),
+  sortFn: (f1, f2) => {
+    const nameA = f1.filepath?.name ?? ""
+    const nameB = f2.filepath?.name ?? ""
+    return nameB.localeCompare(nameA) // newest-first
+  },
 }),
-
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
